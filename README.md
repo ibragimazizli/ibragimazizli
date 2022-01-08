@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibragimazizli
-- 👀 I’m interested in Fluter developmtn
+- 👀 I’m interested in Fluter development
 - 🌱 I’m currently learning Deep leaerning technics
 - 💞️ I’m looking to collaborate on mobile application products
 - 📫 How to reach me ibragim.abdulazizli@gmail.com
