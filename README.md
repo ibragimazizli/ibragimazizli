@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Machine learning alghoritms**
 
-- 👨‍💻 All of my projects are available [with request](with request)
+- 👨‍💻 All of my projects are available with request
 
-- ⚡ Fun fact [I like cats](I like cats)
+- ⚡ Fun fact I like cats
 
 - 💬 Ask me about **Flutter,Python,Cyber Security,System Architecture**
 
