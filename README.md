@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available with request
 
-- ⚡ Fun fact I like cats
-
 - 💬 Ask me about **Flutter,Python,Cyber Security,System Architecture**
 
 - 📫 How to reach me **ibragim.abdulazizli@gmail.com**
